@@ -33,8 +33,8 @@ This project performs customer segmentation using **K-Means Clustering** in R. T
 ## 🛠️ How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation-r.git
-   cd customer-segmentation-r
+   git clone https://github.com/yashbilwal/Customer-Segmentation.git
+   cd Customer-Segmentation
 2. Open customer_segmentation.R or .Rmd in RStudio
 
 3. Run the script or knit the .Rmd to generate HTML report

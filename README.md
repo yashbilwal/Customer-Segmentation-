@@ -3,7 +3,7 @@
 This project performs customer segmentation using **K-Means Clustering** in R. The goal is to identify different customer groups based on spending behavior or features and visualize the clusters. The solution is deployed as a Shiny web app.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Clustering.svg/512px-Clustering.svg.png" width="300" alt="Clustering Visualization" />
+  <img src="Visual_Images/Screenshot (62).png" />
 </p>
 
 ## 📌 Features

@@ -28,7 +28,7 @@ This project performs customer segmentation using **K-Means Clustering** in R. T
 
 | Elbow Method                         | Cluster Visualization                     |
 |-------------------------------------|-------------------------------------------|
-| ![Elbow](https://i.imgur.com/n7hXT1U.png) | ![Clusters](https://i.imgur.com/jlfmlYZ.png) |
+| ![Elbow](Visual_Images/elbow_plot.png) | ![Clusters](Visual_Images/cluster_barplot.png) |
 
 ## 🛠️ How to Run Locally
 1. Clone the repo:

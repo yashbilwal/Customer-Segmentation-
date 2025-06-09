@@ -1,0 +1,10 @@
+name: customer_segmentation_using_r_k-means_clustering
+title:
+username: yashbilwal
+account: yashbilwal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14901099
+bundleId: 10419296
+url: https://yashbilwal.shinyapps.io/customer_segmentation_using_r_k-means_clustering/
+version: 1
